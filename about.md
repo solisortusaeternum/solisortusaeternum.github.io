@@ -1,5 +1,5 @@
 layout: page
 title: "about"
-permalink: https://solisortusaeternum.github.io/about
+permalink: /about/
 
 data scientist interested in math, NLP and signal processing.
