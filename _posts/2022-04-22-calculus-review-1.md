@@ -18,3 +18,5 @@ We'll begin with a few properties, we'll prove some of them.
 
 Assertion: if $a + x = a$ for any number, then $x = 0$
 Proof:
+
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
