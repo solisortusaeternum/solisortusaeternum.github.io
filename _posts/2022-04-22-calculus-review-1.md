@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Calculus review: basic properties of numbers"
 author: solisortusaeternum
 ---

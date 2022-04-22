@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: solisortsaeternum research journey
 description: advanced calculus, linear algebra, digital signal processing, nlp & lots of fun!
+markdown: kramdown
+math_engine: mathjax
