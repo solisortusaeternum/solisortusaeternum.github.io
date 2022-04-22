@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: YYYY-MM-DD
 ---
 
 
