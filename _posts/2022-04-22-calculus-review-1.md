@@ -16,7 +16,7 @@ We'll begin with a few properties, we'll prove some of them.
 (P2) if $a$ is any number, then $a + 0 = 0 + a = a$
 (P3) for every number $a$ there is a number $-a$ such that $a + (-a) = (-a) + a = 0$
 
-Assertion: if ![\Small a + x = a] for any number, then $x = 0$
+Assertion: if ![\Small a + x = a](https://latex.codecogs.com/svg.latex?\Small&space;a + x = a) for any number, then $x = 0$
 Proof:
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
